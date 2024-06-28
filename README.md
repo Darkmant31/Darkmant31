@@ -13,10 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+-->
 <div align="center">
   <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" width="600" height="300"/>
 </div>
