@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif
+<div align="center">
+  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" width="600" height="300"/>
+</div>
+
