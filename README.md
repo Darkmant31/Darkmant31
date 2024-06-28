@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 </div>
 -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" width="" height=""/>
+  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" width="600" height="300"/>
 </div>
 
