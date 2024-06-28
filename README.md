@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi guys 👋
 
 <!--
 **Darkmant31/Darkmant31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 </div>
 -->
 <div align="center">
-  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" width="600" height="300"/>
+  <img src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif" width="" height=""/>
 </div>
 
